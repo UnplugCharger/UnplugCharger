@@ -1,4 +1,4 @@
-Hi 👋 My name is Byron Mahinya
+Hi 👋 My name is Isaac Byron
 ==============================
 
 Machine Learning Engineer | Back-end Developer
