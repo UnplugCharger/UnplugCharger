@@ -7,7 +7,7 @@ Machine Learning Engineer | Back-end Developer
 * 🌍  I'm based in Nairobi Kenya
 * ✉️  You can contact me at [isaacbyron@gmail.com](mailto:isaacbyron@gmail.com)
 * 🧠  I'm learning Golang for Backed development
-* ⚡  I snack on raw rice --- Don't let anyone know !!!
+
 
 ### Skills
 
