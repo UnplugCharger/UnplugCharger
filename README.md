@@ -1,7 +1,7 @@
 Hi 👋 My name is Isaac Byron
 ==============================
 
-Machine Learning Engineer | Back-end Developer
+Machine Learning Developer | Back-end Developer
 ----------------------------------------------
 
 * 🌍  I'm based in Nairobi Kenya
