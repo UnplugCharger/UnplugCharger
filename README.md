@@ -1,6 +1,6 @@
-### Active Code Hours <a href="https://wakatime.com/@7a50151c-2547-49a4-bf3d-7ecd129f16b4"><img src="https://wakatime.com/badge/user/7a50151c-2547-49a4-bf3d-7ecd129f16b4.svg" alt="Total time coded since Jan 30 2023" /></a> since Jan 30 2023
+## Active Code Hours 👋 <a href="https://wakatime.com/@7a50151c-2547-49a4-bf3d-7ecd129f16b4"><img src="https://wakatime.com/badge/user/7a50151c-2547-49a4-bf3d-7ecd129f16b4.svg" alt="Total time coded since Jan 30 2023" /></a> since Jan 30 2023 👋
 
-Hi 👋 My name is Isaac Byron
+Hi 👋 My name is Isaac Byron 
 ==============================
 
 Machine Learning  | Back-end Developer | Python | Golang
