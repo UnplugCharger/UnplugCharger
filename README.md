@@ -8,7 +8,7 @@ Machine Learning  | Back-end Developer | Python | Golang
 * ✉️  You can contact me at [isaacbyron@gmail.com](mailto:isaacbyron@gmail.com)
 * 🧠  I'm learning Golang for Backed development
 * I am currently  going through  The machine learning solutions architect handbook 
-https://wakatime.com/badge/user/7a50151c-2547-49a4-bf3d-7ecd129f16b4.svg
+
 
 
 ### Skills
@@ -30,6 +30,7 @@ https://wakatime.com/badge/user/7a50151c-2547-49a4-bf3d-7ecd129f16b4.svg
 ### Badges
 
 <b>My GitHub Stats</b>
+<a href="https://wakatime.com/@7a50151c-2547-49a4-bf3d-7ecd129f16b4"><img src="https://wakatime.com/badge/user/7a50151c-2547-49a4-bf3d-7ecd129f16b4.svg" alt="Total time coded since Jan 30 2023" /></a>
 
 <a href="http://www.github.com/UnplugCharger"><img src="https://github-readme-stats.vercel.app/api?username=UnplugCharger&show_icons=true&hide=issues,contribs&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="UnplugCharger's GitHub stats" /></a>
 
