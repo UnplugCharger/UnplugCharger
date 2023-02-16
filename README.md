@@ -8,6 +8,7 @@ Machine Learning  | Back-end Developer | Python | Golang
 * ✉️  You can contact me at [isaacbyron@gmail.com](mailto:isaacbyron@gmail.com)
 * 🧠  I'm learning Golang for Backed development
 * I am currently  going through  The machine learning solutions architect handbook 
+https://wakatime.com/badge/user/7a50151c-2547-49a4-bf3d-7ecd129f16b4.svg
 
 
 ### Skills
